@@ -1,4 +1,24 @@
-## 1.1 Project process
+![Tuurno](https://tuurno.com/img/logoheader.png)
+
+# Whitepaper
+
+### Project Overview  
+
+We are a small startup based out of Santo Domingo, Dominican Republic, building a powerful tool to help small businesses grow and help people to manage their time in a smart way.
+
+Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and joining waiting lists in real-time. Empowered by [$TURNO token](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a).
+
+## Content
+
+Tuurno, as a time management tool, connects small businesses with customers through appointment scheduling and real-time waitlists.
+
+### Vision
+The vision of *tuurno* is to save your time and get rid of queues by reducing waiting times.
+
+### Mission
+Put *tuurno* in millions of people's hands around the world. Becoming tuurno into a daily use tool for people.
+
+## 1.1 Roadmap
 
 *Tuurno* is in process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta with the first customers and businesses partners.
 
@@ -19,32 +39,6 @@
 * Blockchain integration (BSC)
 
 For more details please see our [Roapmap](https://tuurno.com/#roadmap)
-
-## 1.1.1 Basic information
-
-**Project Name format:** tuurno.md  
-
-**Team name(s):** Team Tuurno  
-
-**Payment Method:** USDT  
-
-**Payment Address:** 0x5090d2b9e9ec82a0577a0aa7166d04d30861592a  
-
-## 1.2 Project Overview  
-
-We are a small startup based out of Santo Domingo, Dominican Republic, building a powerful tool to help small businesses grow and help people to manage their time in a smart way.
-
-Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and joining waiting lists in real-time. Empowered by [$TURNO token](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a).
-
-## 1.2.1 Project Introduction
-
-Tuurno, as a time management tool, connects small businesses with customers through appointment scheduling and real-time waitlists.
-
-### Vision
-The vision of *tuurno* is to save your time and get rid of queues by reducing waiting times.
-
-### Mission
-Put *tuurno* in millions of people's hands around the world. Becoming tuurno into a daily use tool for people.
 
 ## 1.3 Project details  
 
@@ -98,12 +92,6 @@ Put *tuurno* in millions of people's hands around the world. Becoming tuurno int
 
 * *Tuurno* is being built with love for people and small businesses and it's free now and forever.
 
-## 1.3.1 Technology Stack Used  
-
-**Technology 1:**  NodeJS, ExpressJS, ReactNative
-
-**Technology 2:** Blockchain: Binance Smart Chain
-
 ## 1.4 Team members and Profiles
 
 **Merky Chacon** CEO & Founder [Linkedin](https://www.linkedin.com/in/merky-chacon-de-jesus-84a37416b/)
@@ -122,39 +110,13 @@ Put *tuurno* in millions of people's hands around the world. Becoming tuurno int
 
 **Abel Pimentel** Software Engineering Manager [Linkedin](https://www.linkedin.com/in/abeldjesusp/)
 
-## 1.4.1 Information of Project Leader 
-
-**Name:** Merky Chacon de Jesus
-
-**Mailbox:** mchacon@tuurno.com
-
-## 1.5 Legal structure  
-
-**Legal Representative:** Merky Chacon de Jesus (mchacon@tuurno.com)
-
-**Registered Address:** Ave John F. Kennedy, Plaza Compostela 5th floor, Santo Domingo, Dominican Republic 
-
 ## 1.6 Token distribution
 
 **Total Supply:** 1,000,000,000
 
 ![Tuurno token distribuition](https://tuurno.com/tokendistribution.jpg)
 
-## 1.7 Team Code Warehouse
-
-Source Code Repository: https://github.com/tuurno
-
-## 1.8 
-
-**Project Direction:** User Experience Testing, Functional and Performance Testing, Security, Device & Platform Testing, Market research to identify new business partners, Expand the token utility and Huge marketing.
-
-**Iteration Cycle:** Monthly
-
-**Iteration Content:** Daily (Monday to Friday)
-
-**Cost:** $90,000
-
-## 1.9 Official social links
+## Social media links
 
 [Twitter](https://twitter.com/tuurnoapp)
 
