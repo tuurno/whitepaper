@@ -44,6 +44,17 @@ The vision of *tuurno* is to save your time and get rid of queues by reducing wa
 ### Mission
 Put *tuurno* in millions of people's hands around the world. Becoming tuurno into a daily use tool for people.
 
+
+## Tuurno Suite
+
+Tuurno is design with many features within the app that create a suite of different use cases.
+
+* TUMarket
+* TUBusiness
+* TUSport
+* TUTransport
+* TUSocial
+
 ## 1.1 Roadmap
 
 *Tuurno* is in process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta with the first customers and businesses partners.
