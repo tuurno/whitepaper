@@ -1,14 +1,40 @@
-![Tuurno](https://tuurno.com/img/logoheader.png)
+![Tuurno](https://tuurno.com/img/logoheader.png) 
 
-# Whitepaper
+## Whitepaper
 
-### Project Overview  
+### Abstract
 
-We are a small startup based out of Santo Domingo, Dominican Republic, building a powerful tool to help small businesses grow and help people to manage their time in a smart way.
+El tiempo es un recurso invaluable con el cual cuenta el ser humano. Lamentablemente en muchos casos perdemos nuestro tiempo 
+
+
+
+We are a small startup founded in 2019, Tuurno is being carefully designed and engineered to create a powerful tool to help small businesses grow and help people to manage their time in a smart way.
+
+Founded in 2019, Tuurno is being carefully designed and engineered to allow its users to create, buy and sell and resell NFTs initially based on the Binance Smart Chain  blockchain.
+
+The Tuurno.com platform is not limited to the Binance Smart Chain. Our aim is to create a multi-chain platform that will be fulﬁlled by incorporating Binance Smart Chain and other compatible blockchains as the platform grows.
+
+Our oﬀering is supported by the $TUURNO  token, the native cryptocurrency of the platform. $TUURNO  can be used for Payments, joining the platform’s tiered Membership Program, Staking Rewards and access to exclusive NFTs.
+
+“$Tuurno  .com vision is aligned with the agnostic approach of the industry leaders within the blockchain ecosystem. Incorporating the fundamentals of the decentralised technology with providing interoperability, fast execution and layer 2 solutions within its development roadmaps.”
+
+Founded by a team of individuals experienced within blockchain, business development and e-commerce. $Tuurno.com mission to push forward the mass adoption of blockchain technology and cryptocurrencies to everyday users.
+
+Tuurno future is really amazing.
+
+Thank you for reading our whitepaper, we look forward to hearing from you with any questions you may have.
+
+
+
+We are a small startup founded at february 2, 2019, building a powerful tool to help small businesses grow and help people to manage their time in a smart way.
 
 Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and joining waiting lists in real-time. Empowered by [$TURNO token](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a).
 
-## Content
+### The problem
+
+### The solution
+
+## Introduction
 
 Tuurno, as a time management tool, connects small businesses with customers through appointment scheduling and real-time waitlists.
 
@@ -21,8 +47,6 @@ Put *tuurno* in millions of people's hands around the world. Becoming tuurno int
 ## 1.1 Roadmap
 
 *Tuurno* is in process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta with the first customers and businesses partners.
-
-[Official Website](https://tuurno.com)
 
 **Completed**
 
