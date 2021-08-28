@@ -1,38 +1,20 @@
 ![Tuurno](https://tuurno.com/img/logoheader.png) 
 
-## Whitepaper
+## Whitepaper V1
 
 ### Abstract
 
-El tiempo es un recurso invaluable con el cual cuenta el ser humano. Lamentablemente en muchos casos perdemos nuestro tiempo 
+Tuurno is a startup founded in 2019, it is being carefully designed and engineered to create a powerful tool to help small businesses grow and people to manage their time in a smart way.
+
+As a time management tool, Tuurno connects small businesses with customers through appointment scheduling and real-time waitlists.
+
+#### The problem
 
 
 
-We are a small startup founded in 2019, Tuurno is being carefully designed and engineered to create a powerful tool to help small businesses grow and help people to manage their time in a smart way.
-
-Founded in 2019, Tuurno is being carefully designed and engineered to allow its users to create, buy and sell and resell NFTs initially based on the Binance Smart Chain  blockchain.
-
-The Tuurno.com platform is not limited to the Binance Smart Chain. Our aim is to create a multi-chain platform that will be fulﬁlled by incorporating Binance Smart Chain and other compatible blockchains as the platform grows.
-
-Our oﬀering is supported by the $TUURNO  token, the native cryptocurrency of the platform. $TUURNO  can be used for Payments, joining the platform’s tiered Membership Program, Staking Rewards and access to exclusive NFTs.
-
-“$Tuurno  .com vision is aligned with the agnostic approach of the industry leaders within the blockchain ecosystem. Incorporating the fundamentals of the decentralised technology with providing interoperability, fast execution and layer 2 solutions within its development roadmaps.”
-
-Founded by a team of individuals experienced within blockchain, business development and e-commerce. $Tuurno.com mission to push forward the mass adoption of blockchain technology and cryptocurrencies to everyday users.
-
-Tuurno future is really amazing.
-
-Thank you for reading our whitepaper, we look forward to hearing from you with any questions you may have.
+#### The solution
 
 
-
-We are a small startup founded at february 2, 2019, building a powerful tool to help small businesses grow and help people to manage their time in a smart way.
-
-Tuurno is a smart cryptocurrency-based mobile app & wallet for appointment scheduling and joining waiting lists in real-time. Empowered by [$TURNO token](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a).
-
-### The problem
-
-### The solution
 
 ## Introduction
 
@@ -150,6 +132,12 @@ For more details please see our [Roapmap](https://tuurno.com/#roadmap)
 **Total Supply:** 1,000,000,000
 
 ![Tuurno token distribuition](https://tuurno.com/tokendistribution.jpg)
+
+Name | Name | Name |
+---------------------------- | -------------------------------------- | ----------------------------------------
+Dave Campbell (CTO C+E)      | Rick Rashid (CTO ASG)                  | John Shewchuk (Technical Fellow, TED HQ)
+Mark Russinovich (CTO Azure) | Steve Lucco (Technical Fellow, DevDiv) | Murali Krishnaprasad (Azure App Plat)
+Rob Howard (ASG)             | Peter Torr  (OSG)                      | Chris Mullins (ASG)
 
 ## Social media links
 
