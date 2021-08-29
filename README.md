@@ -8,54 +8,17 @@ Tuurno is a startup founded in 2019, it is being carefully designed and engineer
 
 As a time management tool, Tuurno connects small businesses with customers through appointment scheduling and real-time waitlists.
 
-#### The problem
-
-
-
-#### The solution
-
-
-
 ## Introduction
 
-Tuurno, as a time management tool, connects small businesses with customers through appointment scheduling and real-time waitlists.
+Tuurno is a smart cryptocurrency-based mobile app & wallet for time management, empowered by $TURNO token. 
+
+With Tuurno you can buy, store, send and spend $TURNO tokens.
 
 ### Vision
-The vision of *tuurno* is to save your time and get rid of queues by reducing waiting times.
+The vision of Tuurno is to save your time and get rid of queues by reducing waiting times.</p>
 
 ### Mission
-Put *tuurno* in millions of people's hands around the world. Becoming tuurno into a daily use tool for people.
-
-
-## Tuurno Suite
-
-Tuurno is design with many features within the app that create a suite of different use cases.
-
-* TUMarket
-* TUBusiness
-* TUSport
-* TUTransport
-* TUSocial
-
-## 1.1 Roadmap
-
-*Tuurno* is in process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta with the first customers and businesses partners.
-
-**Completed**
-
-* Research and idea
-* Problem and solution identification
-* Setting the scope
-* User/market research
-
-**In process**
-* UX wireframe & UI design
-* Prototype
-* Software architecture
-* Mobile App Front-End
-* Blockchain integration (BSC)
-
-For more details please see our [Roapmap](https://tuurno.com/#roadmap)
+Tuurno's mission is getting to millions of people around the world. We want to become a daily-used tool.
 
 ## 1.3 Project details  
 
@@ -108,6 +71,36 @@ For more details please see our [Roapmap](https://tuurno.com/#roadmap)
 *Free*
 
 * *Tuurno* is being built with love for people and small businesses and it's free now and forever.
+
+## Tuurno Suite
+
+Tuurno is design with many features within the app that create a suite of different use cases.
+
+* TUMarket
+* TUBusiness
+* TUSport
+* TUTransport
+* TUSocial
+
+## 1.1 Roadmap
+
+*Tuurno* is in process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta with the first customers and businesses partners.
+
+**Completed**
+
+* Research and idea
+* Problem and solution identification
+* Setting the scope
+* User/market research
+
+**In process**
+* UX wireframe & UI design
+* Prototype
+* Software architecture
+* Mobile App Front-End
+* Blockchain integration (BSC)
+
+For more details please see our [Roapmap](https://tuurno.com/#roadmap)
 
 ## 1.4 Team members and Profiles
 
