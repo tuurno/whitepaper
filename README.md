@@ -24,7 +24,7 @@ Tuurno's mission is getting to millions of people around the world. We want to b
 
 ### Who is tuurno for?
 
-*Tuurno* is for everyone and thousands of small businesses worldwide (Beauty centers, Barbershop, Dentists, CarWash, Restaurants, Doctors and all kinds of businesses or professionals that work through waitlists and appointment scheduling).
+*Tuurno* is for everyone and thousands of small businesses worldwide (Beauty centers, Barbershops, Dentists, CarWash, Restaurants, Doctors and all kinds of businesses or professionals that work through waitlists and appointment scheduling).
 
 ### Why tuurno? 
 
@@ -81,6 +81,8 @@ Tuurno is design with many features within the app that create a suite of differ
 * TUSport
 * TUTransport
 * TUSocial
+* TUEntertainment
+* TUPharmacy
 
 ## 1.1 Roadmap
 
@@ -126,16 +128,16 @@ For more details please see our [Roapmap](https://tuurno.com/#roadmap)
 
 ![Tuurno token distribuition](https://tuurno.com/tokendistribution.jpg)
 
-Title | Address | Quantity | Percentage |
---------------------- | ------------------------------------------- | --------------- | --------
-Company Reserve       | [0x0d3eaeac33f03e769fe33762944bb2499208928a](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x0d3eaeac33f03e769fe33762944bb2499208928a)  | 250,000,000     | 25%
-Team & Advisors       | [0xba7f487fbe501ea31de5b4ad13722396ee868248](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xba7f487fbe501ea31de5b4ad13722396ee868248)  | 150,000,000     | 15%
-Marketing             | [0x94611a139547a1d1b0ef86eedf82685bf7b58124](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x94611a139547a1d1b0ef86eedf82685bf7b58124)  | 180,000,000     | 18%
-Liquidity             | [0xce1267bc92c80ac34bd933d8db78c99f63fe1864](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xce1267bc92c80ac34bd933d8db78c99f63fe1864)  | 150,000,000     | 15%
-Business Development  | [0x2e4401d1e2a619a4459931519c9e1361303e2070](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x2e4401d1e2a619a4459931519c9e1361303e2070)  | 100,000,000     | 10%
-Charity               | [0xb3215b4074b0487573e30886a910b1f0cdbd325b](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xb3215b4074b0487573e30886a910b1f0cdbd325b)  | 20,000,000      | 2%
-Private Sell          | [0xd3ba206ddaf7b59315e6c8a58d6661d15acd7256](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xd3ba206ddaf7b59315e6c8a58d6661d15acd7256)  | 70,000,000      | 7%
-Public Sell           | [0x3e7b1ac2edcdef97f6472a905278ca3783557696](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x3e7b1ac2edcdef97f6472a905278ca3783557696)  | 80,000,000      | 8%
+Title | Address | Quantity | Percentage | Lock  | Vesting
+--------------------- | ------------------------------------------- | --------------- | -------- | -------- | --------
+Company Reserve       | [0x0d3eaeac33f03e769fe33762944bb2499208928a](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x0d3eaeac33f03e769fe33762944bb2499208928a)  | 250,000,000     | 25%  | 0 | 0
+Team & Advisors       | [0xba7f487fbe501ea31de5b4ad13722396ee868248](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xba7f487fbe501ea31de5b4ad13722396ee868248)  | 150,000,000     | 15%  | 0 | 0
+Marketing             | [0x94611a139547a1d1b0ef86eedf82685bf7b58124](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x94611a139547a1d1b0ef86eedf82685bf7b58124)  | 180,000,000     | 18%  | 0 | 0
+Liquidity             | [0xce1267bc92c80ac34bd933d8db78c99f63fe1864](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xce1267bc92c80ac34bd933d8db78c99f63fe1864)  | 150,000,000     | 15%  | 0 | 0
+Business Development  | [0x2e4401d1e2a619a4459931519c9e1361303e2070](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x2e4401d1e2a619a4459931519c9e1361303e2070)  | 100,000,000     | 10%  | 0 | 0
+Charity               | [0xb3215b4074b0487573e30886a910b1f0cdbd325b](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xb3215b4074b0487573e30886a910b1f0cdbd325b)  | 20,000,000      | 2%  | 0 | 0
+Private Sell          | [0xd3ba206ddaf7b59315e6c8a58d6661d15acd7256](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0xd3ba206ddaf7b59315e6c8a58d6661d15acd7256)  | 70,000,000      | 7%  | 0 | 0
+Public Sell           | [0x3e7b1ac2edcdef97f6472a905278ca3783557696](https://bscscan.com/token/0x5365e63fc843dfa38cef6c4e742e8ffb7af34f9a?a=0x3e7b1ac2edcdef97f6472a905278ca3783557696)  | 80,000,000      | 8%  | 0 | 0
 
 
 ## Social media links
