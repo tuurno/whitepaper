@@ -4,65 +4,65 @@
 
 ### Abstract
 
-Tuurno is a startup founded in 2019, it is being carefully designed and engineered to create a powerful tool to help small businesses grow and people to manage their time in a smart way.
+Tuurno is a startup which was founded in 2019. It is being carefully designed and engineered to create a powerful tool designed to help small businesses grow and to assist people managing their time in a smart way.
 
 As a time management tool, Tuurno connects small businesses with customers through appointment scheduling and real-time waitlists.
 
 ## Introduction
 
-Tuurno is a smart cryptocurrency-based mobile app & wallet for time management, empowered by $TURNO token. 
+Tuurno is a smart, cryptocurrency-based mobile app & wallet for time management, empowered by $TURNO token. 
 
 With Tuurno you can buy, store, send and spend $TURNO tokens.
 
 ### Vision
-The vision of Tuurno is to save your time and get rid of queues by reducing waiting times.</p>
+The vision of Tuurno is to save your time and eliminate queues by reducing waiting times.</p>
 
 ### Mission
-Tuurno's mission is getting to millions of people around the world. We want to become a daily-used tool.
+Tuurno's mission is to reach millions of people around the world. We aim to become a tool which is used on a daily basis.
 
 ## 1.3 Project details  
 
-### Who is tuurno for?
+### Who is Tuurno for?
 
-*Tuurno* is for everyone and thousands of small businesses worldwide (Beauty centers, Barbershops, Dentists, CarWash, Restaurants, Doctors and all kinds of businesses or professionals that work through waitlists and appointment scheduling).
+*Tuurno* is for everyone and for thousands of small businesses worldwide (Beauty centers, Barbershops, Dentists, CarWash, Restaurants, Doctors and all kinds of businesses or professionals that work through waitlists and appointment scheduling).
 
-### Why tuurno? 
+### Why Tuurno? 
 
-*Tuurno* is designed to accelerate the adoption of cryptocurrencies, while meet user and small business needs. tuurno is here to solve some big issues
+*Tuurno* is designed to accelerate the adoption of cryptocurrencies, while meeting user and small business needs. Tuurno is here to solve some major issues.
 
-**As user**
+**As a user**
 
 *Waiting times*
 
-* *Tuurno* turns you into VIP customer, getting rid of queues and reducing waiting times, so you do not have to waste your valuable time.
+* *Tuurno* makes you a VIP customer, eliminating queues and reducing waiting times, so you do not have to waste your valuable time.
 
 *Social*
 
-* *Tuurno* allows you to organize and schedule events to meet and share with your friends.
+* *Tuurno* allows you to organize and schedule events to meet and share with your friends and acquaintances.
 
 *Transport*
 
-* *Tuurno* manages the transportation service for you so that you are not late for your appointment or lose your spot in the waiting list, even if you got a physical condition.
+* *Tuurno* manages the transportation service for you so that you are not late for your appointment or lose your place on the waiting list, even if you have a physical condition.
 
-**As business**
+**As a business**
 
 *Payment Solution*
 
-* Since the majority of payment solutions take a huge % from the business, our token solution and platform will cut those.
+* Since the majority of payment solutions take a huge % of the business, our token solution and platform will reduce those.
 
 *Investment and saving*
 
-* A new way to invest and save without money. You offer your services and in exchange you receive $TURNO tokens to hold or sell.
+* A new way to invest and save without money. You offer your services and in exchange,  you receive $TURNO tokens to hold or sell.
 
 *Security*
 
-* A new way to invest and save without money. You offer your services and in exchange you receive $TURNO tokens to hold or sell.
+* A new way to invest and save without money. You offer your services and in exchange, you receive $TURNO tokens to hold or sell.
 
-**As user and business**
+**As a user and a business**
 
 *Real-time*
 
-* Receive real-time notifications and get notified before your spot on the waitlist or appointment is ready. tuurno helps you to manage and optimize your time in a smart way.
+* Receive real-time notifications and be notified before your place on the waitlist or appointment is ready. Tuurno helps you to manage and optimize your time smartly.
 
 *Privacy*
 
@@ -74,7 +74,7 @@ Tuurno's mission is getting to millions of people around the world. We want to b
 
 ## Tuurno Suite
 
-Tuurno is design with many features within the app that create a suite of different use cases.
+Tuurno boasts many features within the app that create a suite of different use cases.
 
 * TUMarket
 * TUBusiness
@@ -86,7 +86,7 @@ Tuurno is design with many features within the app that create a suite of differ
 
 ## 1.1 Roadmap
 
-*Tuurno* is in process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta with the first customers and businesses partners.
+*Tuurno* is in the process of development and we plan to launch the first version of the app for Android and iOS users at the end of this year 2021, with about 2 months in beta format with the first customers and business partners.
 
 **Completed**
 
