@@ -56,7 +56,7 @@ Tuurno's mission is to reach millions of people around the world. We aim to beco
 
 *Security*
 
-* A new way to invest and save without money. You offer your services and in exchange, you receive $TURNO tokens to hold or sell.
+* tuurno provides you security by knowing your customers before they come to your business. Use digital money, not cash.
 
 **As a user and a business**
 
